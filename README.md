@@ -5,26 +5,10 @@
 
 ⚡ 🔬 MSc Student in Electronic Systems
 
-📈 Business Analytics | 📊 Data Science | 🧠 Machine Learning | 🤖 AI
+📈 Business Analytics | 📊 Data Science | 💹 Quant Finance | 🧠 Machine Learning | 🤖 AI
 
 ---
 
-## 📈 Business Analytics
-
-- Telecom Sales Funnel Analysis
-- Market Share Analysis
-
-## 🧠 Data Science
-
-### 📉 Traditional Machine Learning
-
-- Customer Survival Prediction
-- Customer Segmentation
-
-### 🤖 AI / Deep Learning
-
-- Speech Emotion Recognition
-- Traffic Forecasting with RNNs
 
 ## 📫 Contact
 
