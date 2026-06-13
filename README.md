@@ -14,7 +14,6 @@
 
 - LinkedIn: https://www.linkedin.com/in/mariogbatista/
 - Email: marioguibatista@gmail.com Civil Engineer (USP)  
-🤖 MSc Student in Electronic Systems  
-📊 Data Science | Machine Learning | AI
+
 
 ---
