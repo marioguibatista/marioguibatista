@@ -3,7 +3,7 @@
 
 🌉 Civil Engineer (Poli - USP)
 
-⚡ 📡 🔬 MSc Student in Electronic Systems
+⚡ 🔬 MSc Student in Electronic Systems
 
 📊 Data Science | 🧠 Machine Learning | 🤖 AI
 
