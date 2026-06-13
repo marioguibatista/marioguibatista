@@ -5,7 +5,7 @@
 
 ⚡ 🔬 MSc Student in Electronic Systems
 
-📊 Data Science | 🧠 Machine Learning | 🤖 AI
+📈 Business Analytics | 📊 Data Science | 🧠 Machine Learning | 🤖 AI
 
 ---
 
