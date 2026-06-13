@@ -13,7 +13,7 @@
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/mariogbatista/
-- Email: marioguibatista@gmail.com Civil Engineer (USP)  
+- Email: marioguibatista@gmail.com Civil 
 
 
 ---
